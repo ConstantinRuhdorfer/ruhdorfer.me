@@ -1,0 +1,19 @@
+.Portrait {
+    margin-top: 15%;
+    width: 100%;
+    margin-bottom: 0em;
+    padding-bottom: 0em;
+}
+
+.keyFrame {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    max-width: 80%;
+}
+
+.keyText {
+    font-family: Abril Fatface;
+    text-align: left;
+}

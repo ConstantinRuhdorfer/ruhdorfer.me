@@ -1,4 +1,9 @@
 .Menu {
     background-color: #282c34;
     color: white;
+    display: grid;
+    grid-template-rows: 3fr 2fr 5em;
+    max-height: 100vh;
+    min-height: 100vh;
+    padding: 1em;
 }
