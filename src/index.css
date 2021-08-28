@@ -1,4 +1,7 @@
-@import url('https://fonts.googleapis.com/css?family=Abril+Fatface');
+@font-face {
+  font-family: 'Abril Fatface';
+  src: local('Abril Fatface'), url(./fonts/Abril_Fatface/AbrilFatface-Regular.ttf) format('truetype');
+}
 
 body {
   margin: 0;
