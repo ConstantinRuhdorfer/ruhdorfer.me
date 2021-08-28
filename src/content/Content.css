@@ -1,6 +1,13 @@
 .Content {
     color: black;
     overflow-y: scroll;
-    padding: 3em;
+    padding: 6em;
     padding-top: 2em;
 }
+
+.Quote {
+    margin: 0;
+    background: #eee;
+    padding: 1em;
+    border-radius: 1em;
+  }
