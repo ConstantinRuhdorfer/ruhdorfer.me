@@ -1,4 +1,6 @@
 .Content {
     color: black;
     overflow-y: scroll;
+    padding: 3em;
+    padding-top: 2em;
 }
