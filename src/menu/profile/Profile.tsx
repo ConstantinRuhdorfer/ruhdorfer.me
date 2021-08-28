@@ -8,7 +8,7 @@ function Profile() {
         <div className='item-1 Profile'>
             <p className='profileText'>
                 I am Constantin Ruhdorfer a master student of Informatics at the University of Stuttgart, Germany. 
-                Interested in AI, computer vision, reinforcement learning, automatic reasoning and effective altruism.
+                My interests lie in AI, computer vision, reinforcement learning, automatic reasoning and effective altruism.
                 Connect with me via:</p>
             <div className='Socials'>
                 <a className='item-0 Social' href="https://github.com/ConstantinRuhdorfer" aria-label="GitHub">
